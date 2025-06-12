@@ -34,7 +34,7 @@
 
 1.  **克隆仓库**
     ```bash
-    git clone https://your-repository-url.git
+    git clone https://github.com/forliage/Horizon-Bank.git
     ```
 2.  **打开项目**
     使用最新版的 [Android Studio](https://developer.android.com/studio) 打开项目。
